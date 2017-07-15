@@ -15,10 +15,8 @@ Html5, CSS3 , javascript.
  * Customizable properties
  * Print Option
 
-
-![](https://github.com/ahuertam/andomMapMaker/samples/Selección_031.png?raw=true)
-![](https://github.com/ahuertam/randomMapMaker/samples/Selección_032.png?raw=true)
-![](https://github.com/ahuertam/randomMapMaker/samples/Selección_033.png?raw=true)
-
+![](https://github.com/ahuertam/randomMapMaker/blob/master/samples/Selecci%C3%B3n_031.png?raw=true)
+![](https://github.com/ahuertam/randomMapMaker/blob/master/samples/Selecci%C3%B3n_032.png?raw=true)
+![](https://github.com/ahuertam/randomMapMaker/blob/master/samples/Selecci%C3%B3n_033.png?raw=true)
 
 
