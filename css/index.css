@@ -1,0 +1,112 @@
+body{
+  font-family: 'Press Start 2P', cursive;
+  /*background-image:url("../img/bgtile.gif");*/
+  background-color: black;
+  color: #41c52b;
+  margin-top: 0%;
+}
+h1{
+  font-size: 222%;
+  text-shadow: 1px 1px red;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+}
+#title{
+  margin-top: 4px;
+  background-color: black;
+}
+.btn{
+  background-color: black;
+  font-family: 'Press Start 2P', cursive;
+  border:1px solid black;
+  padding: 1%;
+  margin-top: -3%;
+  margin-left: 44%;
+  text-decoration: none;
+  color:red;
+}
+.btn a{
+  text-decoration: none;
+  color:red;
+}
+.btn a:hover{
+  text-decoration: none;
+  color:blue;
+
+}
+
+.board{
+height: 550px;
+width: 700px;
+margin: 30px auto;
+/*background-image:url("../img/earth1.jpg");*/
+}
+.container {
+  height: 450px;
+  margin: 30px auto;
+  width: 700px;
+  border:1px solid black;
+
+}
+
+.cell{
+  border:1px solid black;
+  background-size: contain;
+  box-sizing: border-box;
+  float: left;
+  height: 40px;
+  width: 35px;
+}
+
+.map{
+  background-color: black;
+  /*background-image:url("../img/earth1.jpg");*/
+}
+
+.right{
+  transform:rotate(90deg);
+}
+.up{
+transform:rotate(360deg);
+}
+.down{
+  transform:rotate(180deg);
+}
+.left{
+  transform:rotate(-90deg);
+}
+.wallBreak{
+  background-image:url("../img/wall2.jpeg");
+  width: 35px;
+  height: 40px;
+}
+.bush{
+  background-image:url("../img/15.gif");
+  width: 35px;
+  height: 40px;
+}
+.wall{
+  background-image:url("../img/wall4.png");
+  width: 35px;
+  height: 40px;
+}
+.water{
+  border:1px solid black;
+  border-radius: 30%;
+  background-color: black;
+  background-image:url("../img/water3.gif");
+  width: 35px;
+  height: 40px;
+}
+.sky{
+  position: absolute;
+  height: 550px;
+  width: 700px;
+  margin-top:-37%;
+}
+.cloud{
+   display: inline-block;
+  background-image:url("../img/vacio.gif");
+  width: 35px;
+  height: 40px;
+}
