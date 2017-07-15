@@ -16,9 +16,9 @@ Html5, CSS3 , javascript.
  * Print Option
 
 
-![](https://github.com/ahuertam/randomMapMaker/samples/blob/master/Selección_031.png?raw=true)
-![](https://github.com/ahuertam/randomMapMaker/samples/blob/master/Selección_032.png?raw=true)
-![](https://github.com/ahuertam/randomMapMaker/samples/blob/master/Selección_033.png?raw=true)
+![](https://github.com/ahuertam/andomMapMaker/samples/Selección_031.png?raw=true)
+![](https://github.com/ahuertam/randomMapMaker/samples/Selección_032.png?raw=true)
+![](https://github.com/ahuertam/randomMapMaker/samples/Selección_033.png?raw=true)
 
 
 
