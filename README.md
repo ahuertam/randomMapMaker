@@ -1,5 +1,4 @@
 # Random Map Maker
-# <strong>TANKED!
 
 <p>Based on a precious proyect I did I extracted the code and modified it here for making random maps</p>
 Basic Features:
